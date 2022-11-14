@@ -1,29 +1,52 @@
 \begin{thebibliography}{1}
 
-\bibitem{1}
+\bibitem{stojeciTalasi}
+Standing wave.
+\newblock \url{https://www.britannica.com/science/standing-wave-physics}.
+\newblock Pogledano: 14.13.2022.
+
+\bibitem{teorija}
+W.~Bernard Carlson.
+\newblock Tesla: Inventor of the electrical age.
+\newblock {\em Princeton University Press}, 2013.
+
+\bibitem{a}
 Emmanuel Chukwujioke.
 \newblock Wireless power transfer : The future.
-\newblock 2015.
-\newblock https://www.ijser.org/paper/Wireless-Power-Transfer-The-future.html.
+\newblock {\em International Journal of Scientific and Engineering Research},
+  2015.
 
-\bibitem{2} Castellanos University of~York Moore, Julian.
-\newblock Applications of wireless power transfer in medicine :
-  State-of-the-art reviews.
-\newblock 2019.
-\newblock
-https://eprints.whiterose.ac.uk/156535/1/Moore2019\_Article\_Application\allowbreak sOfWirelessPowerTra.pdf.
+\bibitem{izgubljeniTalasi}
+A.~David~Wunsch.
+\newblock Nikola tesla’s true wireless: A paradigm missed [scanning our
+  past].
+\newblock {\em Proceedings of the IEEE}, 106:1115--1123, 2018.
 
-\bibitem{3} Mengyang Li.
+\bibitem{intervju1926}
+John~B. Kennedy.
+\newblock {\em Collier magazine}, 1926.
+
+\bibitem{c}
+Mengyang Li.
 \newblock Study on wireless power transfer technology toward the application
   for cardiac pacemaker.
-\newblock unknown.
-\newblock https://siyss20.ungaforskare.se/Mengyang.li\_report.pdf.
+\newblock \url{https://siyss20.ungaforskare.se/Mengyang.li_report.pdf}.
 
-\bibitem{4}
+\bibitem{b}
+Castellanos University of~York Moore, Julian.
+\newblock Applications of wireless power transfer in medicine :
+  State-of-the-art reviews.
+\newblock {\em Journal of biomedical optics}, 2019.
+
+\bibitem{d}
 Doug Stovall.
 \newblock How real wireless power will enable a more sustainable future.
-\newblock unknown.
 \newblock
-  https://blog.ossia.com/how-real-wireless-power-will-enable-a-more-sustainable-future.
+  \url{https://blog.ossia.com/how-real-wireless-power-will-enable-a-more-sustainable-future}.
+
+\bibitem{teslinClanak}
+Nikola Tesla.
+\newblock The problem of increasing human energy.
+\newblock {\em Century magazine}, 1900.
 
 \end{thebibliography}
