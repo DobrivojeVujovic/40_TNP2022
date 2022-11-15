@@ -1,0 +1,32 @@
+Istorija i pioniri
+U 19. veku ljude počinje interesovati ideja bežičnog prenosa električne energije. Džejms Klerk Maksvel je 1864. godine napravio
+matematički model ponašanja elektromagnetnog zračenja, da bi Hainrih Rudolf Herc 1888. godine eksperimentom potvrdio postojanje
+istog. Guljelmo Markoni je 1897. godine uspešno poslao Morseovu azbuku na rastojanje od 6 km. U međuvremenu Tesla počinje 
+ozbiljno proučavati ideju bežičnog prenosa električne energije. Njegova zamisao je bila da bežičnim putem svetu obezbedi
+besplatnu elekričnu energiju. 1893. osvetljava sijalicu bežičnim putem, a nedugo zatim započinje gradnju Vardenklif tornja
+koji bi se koristio za prenos električne energije bežičnim putem na velike udaljenosti. Zbog velikih gubitaka projekt je ostao bez
+finansijskih sredstava i na kraju je ugašen. Vilijam Braun je 1964. pokazao model vazduhoplova na mikrotalasni pogon koji je svu
+za let potrebnu energiju dobivao iz mikrotalasnih zraka. 2008. Intel je pokazao da se može bežično poslati energija da bi se
+upalila sijalica sa 75% efikasnošću prenosa.
+
+Tehnologije i načini bežičnog prenosa energije
+Bežični prenos energije možemo podeliti na prenos na male i prenos na velike udaljenosti. 
+
+Prenos na male udaljenosti obično podrazumeva prenos energije na nekoliko centimetara ili metara. Najčešća tehnika je s
+induktivnim prenosom, gde se energija prenosi korišćenjem magnetnkog polja upotrebom induktivne sprege između dva namotaja žice.
+Zbog mogućnosti bežičnog prenosa snage od nekoliko vata pa sve do kilovata tehnologija induktivnog bežičnog prenosa energije 
+koristi se u industrijske, medicinske i svakodnevne svrhe.
+Primeri prenosa energije na male udaljenosti uključuju bežično napajanje uređaja unutar kuće ili
+punjenje električnih automobila pomoću rezonantne magnetne indukcione podloge na zemlji.
+
+Prenos na velike udaljenosti je obično prenos energije od 100 metara ili više. Jedna tehnika prenosa energije je korišćenje antena za 
+za slanje elektromagnetnih zraka, poput mikrotalasa ili lasera. Ograničenje korišćenja induktivne sprege prenosa energije na velike 
+udaljenosti je to što magnetno polje opada prilično brzo kada se poveća rastojanje između predajnika i prijemnika. Zbog toga je
+elektromagnetno zračenje prikladnije iz ovog razloga.
+Prenos energije na daljinu sa antenama može se kategorisati u blisko polje ili daleko polje. U bliskom polju, mogu se posmatrati 
+ravni talasi sa vrlo malo ili nimalo divergencije snopa. Suprotno tome, u dalekom polju postoji značajna divergencija snopa i 
+opadanje inverznog na kvadrat za gustinu snage sa rastojanjem, nešto što se ne primećuje u bliskom polju.
+
+Slučajevi upotrebe za prenos na velike domete uključuju emitovanje energije iz svemira na zemlju, punjenje bespilotne letelice
+(bez potrebe da se letelica vrati u bazu radi punjenja) i prenos energije preko teškog terena umesto da koristimo žice.
+

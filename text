@@ -1,0 +1,24 @@
+Za prenos eklektrične energije koriste se tehnologije za prenos na blizinu i na velike razdaljine odnosno near-field (neradijativna) i far-field(radijativna) tehnologija.
+
+Near-field se zasniva na principu da se u polju dometa električni i magnetni talasi razdvajaju.
+Ovaj princip se zasniva na elektromagnetnoj indukciji između žica i namotaja pomocu koje se energija prenosi putem magnetnog polja odnosno elektrostaticke indukcije između dve metalne elektrode kod elektricnog polja.
+Kod ovakog prenosa odasiljac i prijemnik se mogu povezati indukcijom i rezonantnom indukcijom.
+Kod obične indukcije udaljenost je svega par centimetara dok je kod rezonantne indukcije prenos moguć i na nekoliko metara. Jedna od glavnih odlika ovog pristupa je izuzetno velika efikasnost.
+
+Induktivno povezivanje zahteva svega nekoliko W struje pa je zbog svog malog dometa potrebna i mala frekvencija talasa od svega nekoliko kHz i što je čini najefikasnijom metodom za prenos energije, njena primena je u glavnom punjenje i napajanje malih uređaja u domaćinstvu.
+
+Rezonantno induktivno povezivanje koristi više energije od induktivnog s toga mu je i domet veći i pa je i frekvencija u opsegu od nekoliko MHz, efikasnost ovog prenosa je malo manja od obicnog induktivnog povezivanja ali je i dalje visoka.
+
+Far-field tehnologije služe za prenos na mnogo veće udaljenosti i za takav prenos energije se koriste mikro talasi odnosno laseri.
+
+Mikrotalasi koriste par hiljada puta vise energije od indukcije odnosno do par desetina kW, njih domet zajedno sa laserima prelazi desetine kilometara i opseg frekvencija ovih talasa se krece od 300MHz do 300GHz. Sistem se sastoji od generatora talasa koji naizmeničnu struju pretvara u jednosmernu a nakon toga jednosmernu struju u elektromagnetne talase. Pomoću antene za prijem, koja se drugačije nazivaju i rectenna, elektromagnetni talasi se pretvaraju u jednosmernu struju. Ideja iza ovog principa je ta da se u orbitu lansiraju svemirske stanice koje bi pomoću solarnih panela proizvodile struju i emitovale je nazad na Zemlju.
+
+Problem kod ovog nacina slanja energije je sto je aparatura neophodna za njen rad ogromna i antena za slanje zauzima 1km u precniku dok antena za prijem zauzima preko 10km precnika. Sa druge strane plantaza solarnih panela ovih dimenzija moze da proizvede 10 hiljada MW elektricne energije u poredjenju sa 750 MW koje bi antena mogla da primi.
+
+Takodje jedna od mana ovog pristupa je lomljenje talas u susretu sa preprekama sto rezultuje gubitku efikasnosti.
+
+Laseri su gussto zbijeni svetosni talasi koji za razliku od elektromagnetnih mogu da budu vidljivi. Princip rada lasera je da se velike kolicine struje pretvore u laserski zrak i direktno upere u prijemnik koji ce laser pomocu fotonaponskih celija pretvoriti u jednosmernu struju.
+
+Prednost lasera je ta sto su talasi monohromatski i jednakih talasnih duzina sto omogucava optimizaciju u nalazenju idealnog talasa koji ima najbolju stopu prevodjenja svetlosti u elektricnu energiju. Takodje aparatura je znatno manja i kompaktnija i laserski zraci ne ometaju radio komunikacije za razliku od elektromagnetnih.
+
+Sa druge strane mane ovog pristupa su te sto su laseri stetni po ljude i zahtevaju velike sigurnosne protokole za ispravan rad, u poredjenju sa prijemnicima koji su znatno manji nego kod mikrotalasa, hladnjaci za fotocelije su ogromni zbog kolicine energije koja se nalazi u laseru i trenutno maloj efikasnosti pretvaranja svetlosti u fotonaponskim celijama. Atmosferski uslovi kao magla i kisa u potpunosti mogu blokirati lasere sto ih cini beskorisnim u losim vremenskim uslovima jer za funkcionisanje potrebno je laser uperiti direktno u prijemnik sto je jos jedan problem ako izmedju odasiljaca i prijemnika ne postoji direktna linija vec se izmedju nalaze prepreke. Ovo se moze izbeci koriscenjem optickih kablova cije efikasnost takodje nije optimalna za funkcionisanje.
