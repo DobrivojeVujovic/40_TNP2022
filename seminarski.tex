@@ -20,10 +20,10 @@
 
 	\title{Bežični prenos električne energije\\ \small{Seminarski rad u okviru kursa\\Tehničko i naučno pisanje\\ Matematički fakultet}}
 	
-	\author{Dobrivoje Vujovic \\mi22051@alas.matf.bg.ac.rs 
-			\and Mila Gligoric \\mi22082@alas.matf.bg.ac.rs
-			\and Milan Petrovic \\ adresa
-			\and Boris Peric\\mi20185@alas.matf.bg.ac.rs}
+	\author{Dobrivoje Vujović \\mi22051@alas.matf.bg.ac.rs 
+			\and Mila Gligorić \\mi22082@alas.matf.bg.ac.rs
+			\and Milan Petrović \\mi22247@alas.matf.bg.ac.rs
+			\and Boris Perić\\mi20185@alas.matf.bg.ac.rs}
 
 	\date{15. Novembar. 2022.}
 	\maketitle
@@ -133,18 +133,39 @@ Iako je Tesla demonstrirao bežični prenos energije osvetljavajući sijalice po
 
 Za prenos eklektrične energije koriste se tehnologije za prenos na blizinu i na velike razdaljine odnosno near-field (neradijativna) i far-field(radijativna) tehnologija.
 
+
+
+\begin{table}[h]
+    \centering
+    \caption{Usporedba tehnologija bežičnog prenosa energije}
+    
+    \begin{tabular}{|p{2 cm}|p{2 cm}|p{2 cm}|p{2 cm}|p{2 cm}|}
+        \hline
+    & induktivno  povezivanje & rezonantno induktivno povezivanje & mikrovalni prenos & laserski prenos \\ \hline
+    primljena snaga  & nekoliko W & stotine W & do desetine kW & očekivano do MW\\ \hline
+    moguća udaljenost & nekoliko cm & nekoliko m & do desetine km & do desetine km \\ \hline
+    frekvencija rada & nekoliko kHz do desetine kHz & nekoliko MHz & do 300 GHz & više od 1 THz \\ \hline
+    efikasnost & Vrlo visoka & visoka & srednja & srednja \\ \hline
+        
+    
+    \end{tabular}
+    \end{table}
+    
+    
+
+
 \subsection{Prenos energije na male udaljenosti}
 \label{subsec:prenosenergijenamaleudaljenosti}
 
 
 Near-field se zasniva na principu da se u polju dometa električni i magnetni talasi razdvajaju.
-Ovaj princip se zasniva na elektromagnetnoj indukciji između žica i namotaja pomocu koje se energija prenosi putem magnetnog polja odnosno elektrostaticke indukcije između dve metalne elektrode kod elektricnog polja.
-Kod ovakog prenosa odasiljac i prijemnik se mogu povezati indukcijom i rezonantnom indukcijom.
+Ovaj princip se zasniva na elektromagnetnoj indukciji između žica i namotaja pomoću koje se energija prenosi putem magnetnog polja odnosno elektrostatičke indukcije između dve metalne elektrode kod električnog polja.
+Kod ovakog prenosa odašiljač i prijemnik se mogu povezati indukcijom i rezonantnom indukcijom.
 Kod obične indukcije udaljenost je svega par centimetara dok je kod rezonantne indukcije prenos moguć i na nekoliko metara. Jedna od glavnih odlika ovog pristupa je izuzetno velika efikasnost.
 
 Induktivno povezivanje zahteva svega nekoliko W struje pa je zbog svog malog dometa potrebna i mala frekvencija talasa od svega nekoliko kHz i što je čini najefikasnijom metodom za prenos energije, njena primena je u glavnom punjenje i napajanje malih uređaja u domaćinstvu.
 
-Rezonantno induktivno povezivanje koristi više energije od induktivnog s toga mu je i domet veći i pa je i frekvencija u opsegu od nekoliko MHz, efikasnost ovog prenosa je malo manja od obicnog induktivnog povezivanja ali je i dalje visoka.
+Rezonantno induktivno povezivanje koristi više energije od induktivnog s toga mu je i domet veći i pa je i frekvencija u opsegu od nekoliko MHz, efikasnost ovog prenosa je malo manja od običnog induktivnog povezivanja ali je i dalje visoka.
 
 \subsection{Prenos energije na velike udaljenosti}
 \label{subsec:prenosenergijenavelikeudaljenosti}
@@ -152,35 +173,17 @@ Rezonantno induktivno povezivanje koristi više energije od induktivnog s toga m
 
 Far-field tehnologije služe za prenos na mnogo veće udaljenosti i za takav prenos energije se koriste mikro talasi odnosno laseri.
 
-Mikrotalasi koriste par hiljada puta vise energije od indukcije odnosno do par desetina kW, njih domet zajedno sa laserima prelazi desetine kilometara i opseg frekvencija ovih talasa se krece od 300MHz do 300GHz. Sistem se sastoji od generatora talasa koji naizmeničnu struju pretvara u jednosmernu a nakon toga jednosmernu struju u elektromagnetne talase. Pomoću antene za prijem, koja se drugačije nazivaju i rectenna, elektromagnetni talasi se pretvaraju u jednosmernu struju. Ideja iza ovog principa je ta da se u orbitu lansiraju svemirske stanice koje bi pomoću solarnih panela proizvodile struju i emitovale je nazad na Zemlju.
+Mikrotalasi koriste par hiljada puta više energije od indukcije odnosno do par desetina kW, njihov domet zajedno sa laserima prelazi desetine kilometara i opseg frekvencija ovih talasa se kreće od 300MHz do 300GHz. Sistem se sastoji od generatora talasa koji naizmeničnu struju pretvara u jednosmernu a nakon toga jednosmernu struju u elektromagnetne talase. Pomoću antene za prijem, koja se drugačije nazivaju i rectenna, elektromagnetni talasi se pretvaraju u jednosmernu struju. Ideja iza ovog principa je ta da se u orbitu lansiraju svemirske stanice koje bi pomoću solarnih panela proizvodile struju i emitovale je nazad na Zemlju.
 
-Problem kod ovog nacina slanja energije je sto je aparatura neophodna za njen rad ogromna i antena za slanje zauzima 1km u precniku dok antena za prijem zauzima preko 10km precnika. Sa druge strane plantaza solarnih panela ovih dimenzija moze da proizvede 10 hiljada MW elektricne energije u poredjenju sa 750 MW koje bi antena mogla da primi.
+Problem kod ovog načina slanja energije je sto je aparatura neophodna za njen rad ogromna i antena za slanje zauzima 1km u prečniku dok antena za prijem zauzima preko 10km prečnika. Sa druge strane plantaža solarnih panela ovih dimenzija može da proizvede 10 hiljada MW elektricne energije u poređenju sa 750 MW koje bi antena mogla da primi.
 
-Takodje jedna od mana ovog pristupa je lomljenje talas u susretu sa preprekama sto rezultuje gubitku efikasnosti.
+Takođe jedna od mana ovog pristupa je lomljenje talas u susretu sa preprekama što rezultuje gubitku efikasnosti.
 
-Laseri su gussto zbijeni svetosni talasi koji za razliku od elektromagnetnih mogu da budu vidljivi. Princip rada lasera je da se velike kolicine struje pretvore u laserski zrak i direktno upere u prijemnik koji ce laser pomocu fotonaponskih celija pretvoriti u jednosmernu struju.
+Laseri su gusto zbijeni svetosni talasi koji za razliku od elektromagnetnih mogu da budu vidljivi. Princip rada lasera je da se velike kolicine struje pretvore u laserski zrak i direktno upere u prijemnik koji će laser pomoću fotonaponskih ćelija pretvoriti u jednosmernu struju.
 
-Prednost lasera je ta sto su talasi monohromatski i jednakih talasnih duzina sto omogucava optimizaciju u nalazenju idealnog talasa koji ima najbolju stopu prevodjenja svetlosti u elektricnu energiju. Takodje aparatura je znatno manja i kompaktnija i laserski zraci ne ometaju radio komunikacije za razliku od elektromagnetnih.
+Prednost lasera je ta što su talasi monohromatski i jednakih talasnih duzina što omogucava optimizaciju u nalaženju idealnog talasa koji ima najbolju stopu prevođenja svetlosti u električnu energiju. Takođe aparatura je znatno manja i kompaktnija i laserski zraci ne ometaju radio komunikacije za razliku od elektromagnetnih.
 
-Sa druge strane mane ovog pristupa su te sto su laseri stetni po ljude i zahtevaju velike sigurnosne protokole za ispravan rad, u poredjenju sa prijemnicima koji su znatno manji nego kod mikrotalasa, hladnjaci za fotocelije su ogromni zbog kolicine energije koja se nalazi u laseru i trenutno maloj efikasnosti pretvaranja svetlosti u fotonaponskim celijama. Atmosferski uslovi kao magla i kisa u potpunosti mogu blokirati lasere sto ih cini beskorisnim u losim vremenskim uslovima jer za funkcionisanje potrebno je laser uperiti direktno u prijemnik sto je jos jedan problem ako izmedju odasiljaca i prijemnika ne postoji direktna linija vec se izmedju nalaze prepreke. Ovo se moze izbeci koriscenjem optickih kablova cije efikasnost takodje nije optimalna za funkcionisanje.
-
-
-\begin{table}[h]
-\centering
-\caption{Usporedba tehnologija bežičnog prenosa energije}
-
-\begin{tabular}{|p{2 cm}|p{2 cm}|p{2 cm}|p{2 cm}|p{2 cm}|}
-	\hline
-& induktivno  povezivanje & rezonantno induktivno povezivanje & mikrovalni prenos & laserski prenos \\ \hline
-primljena snaga  & nekoliko W & stotine W & do desetine kW & očekivano do MW\\ \hline
-moguća udaljenost & nekoliko cm & nekoliko m & do desetine km & do desetine km \\ \hline
-frekvencija rada & nekoliko kHz do desetine kHz & nekoliko MHz & do 300 GHz & više od 1 THz \\ \hline
-efikasnost & Vrlo visoka & visoka & srednja & srednja \\ \hline
-	
-
-\end{tabular}
-\end{table}
-
+Sa druge strane mane ovog pristupa su te što su laseri štetni po ljude i zahtevaju velike sigurnosne protokole za ispravan rad, u poređenju sa prijemnicima koji su znatno manji nego kod mikrotalasa, hladnjaci za fotoćelije su ogromni zbog količine energije koja se nalazi u laseru i trenutno maloj efikasnosti pretvaranja svetlosti u fotonaponskim ćelijama. Atmosferski uslovi kao magla i kiša u potpunosti mogu blokirati lasere što ih čini beskorisnim u lošim vremenskim uslovima jer za funkcionisanje potrebno je laser uperiti direktno u prijemnik sto je još jedan problem ako između odasiljača i prijemnika ne postoji direktna linija već se između nalaze prepreke. Ovo se može izbeći korišćenjem optičkih kablova čija efikasnost takođe nije optimalna za funkcionisanje.
 
 \bibliographystyle{plain}
 \bibliography{seminarski.bib}
