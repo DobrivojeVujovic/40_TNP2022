@@ -1,9 +1,14 @@
-\begin{thebibliography}{1}
+\begin{thebibliography}{10}
 
 \bibitem{stojeciTalasi}
 Standing wave.
 \newblock \url{https://www.britannica.com/science/standing-wave-physics}.
 \newblock Pogledano: 14.13.2022.
+
+\bibitem{brown1996history}
+William~C Brown.
+\newblock The history of wireless power transmission.
+\newblock {\em Solar energy}, 56(1):3--21, 1996.
 
 \bibitem{teorija}
 W.~Bernard Carlson.
@@ -48,5 +53,13 @@ Doug Stovall.
 Nikola Tesla.
 \newblock The problem of increasing human energy.
 \newblock {\em Century magazine}, 1900.
+
+\bibitem{enwiki:1118144890}
+{Wikipedia contributors}.
+\newblock Wireless power transfer --- {Wikipedia}{,} the free encyclopedia.
+\newblock
+  \url{https://en.wikipedia.org/w/index.php?title=Wireless_power_transfer&oldid=1118144890},
+  2022.
+\newblock [Online; accessed 21-November-2022].
 
 \end{thebibliography}
