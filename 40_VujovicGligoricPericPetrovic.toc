@@ -2,9 +2,9 @@
 \contentsline {section}{\numberline {1}Istorija i pioniri}{2}{section.1}%
 \contentsline {section}{\numberline {2}Primene}{3}{section.2}%
 \contentsline {section}{\numberline {3}Održivost}{4}{section.3}%
-\contentsline {section}{\numberline {4}Svetski bežicni sistem}{4}{section.4}%
+\contentsline {section}{\numberline {4}Svetski bežični sistem}{4}{section.4}%
 \contentsline {subsection}{\numberline {4.1}Istorija}{4}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Princip Rada}{5}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.2}Princip rada}{5}{subsection.4.2}%
 \contentsline {section}{\numberline {5}Načini prenosa energije}{6}{section.5}%
 \contentsline {subsection}{\numberline {5.1}Prenos energije na male udaljenosti}{6}{subsection.5.1}%
 \contentsline {subsection}{\numberline {5.2}Prenos energije na velike udaljenosti}{7}{subsection.5.2}%
