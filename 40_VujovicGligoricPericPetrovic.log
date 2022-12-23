@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.11.9)  23 DEC 2022 00:24
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.17)  24 DEC 2022 00:01
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -284,7 +284,7 @@ Package: babel 2021/04/26 3.58 The Babel package
 File: babel.def 2021/04/26 3.58 Babel common definitions
 \babel@savecnt=\count187
 \U@D=\dimen141
-\l@unhyphenated=\language82
+\l@unhyphenated=\language85
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -296,9 +296,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language24). Reported on input line 105.
+(babel)             (\language26). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language24). Reported on input line 108.
+(babel)             (\language26). Reported on input line 108.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel-serbian/serbian.ldf
 Language: serbian 2021/04/10 2.1 Serbian Latin support for the Babel system
@@ -519,9 +519,9 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 26.
 (./40_VujovicGligoricPericPetrovic.toc
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <7> on input line 6.
+(Font)              <7> on input line 7.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <5> on input line 6.
+(Font)              <5> on input line 7.
 )
 \tf@toc=\write4
 \openout4 = `40_VujovicGligoricPericPetrovic.toc'.
@@ -529,96 +529,69 @@ LaTeX Font Info:    External font `cmex10' loaded for size
  [1
 
 {/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<Markoni.jpg, id=68, 1284.8pt x 887.315pt>
+<Markoni.jpg, id=74, 1284.8pt x 887.315pt>
 File: Markoni.jpg Graphic file (type jpg)
 <use Markoni.jpg>
-Package pdftex.def Info: Markoni.jpg  used on input line 44.
+Package pdftex.def Info: Markoni.jpg  used on input line 50.
 (pdftex.def)             Requested size: 256.95544pt x 177.45985pt.
-<aircraft.jpg, id=70, 501.875pt x 401.5pt>
-File: aircraft.jpg Graphic file (type jpg)
-<use aircraft.jpg>
-Package pdftex.def Info: aircraft.jpg  used on input line 60.
-(pdftex.def)             Requested size: 200.74643pt x 160.59715pt.
- [2 <./Markoni.jpg>] [3 <./aircraft.jpg>]
-<toranj.jpg, id=92, 1027.84pt x 656.4525pt>
-File: toranj.jpg Graphic file (type jpg)
-<use toranj.jpg>
-Package pdftex.def Info: toranj.jpg  used on input line 97.
-(pdftex.def)             Requested size: 256.95937pt x 164.11272pt.
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[4] [5 <./toranj.jpg>]
-Overfull \hbox (12.86072pt too wide) in paragraph at lines 124--125
+<aircraft.jpg, id=76, 501.875pt x 401.5pt>
+File: aircraft.jpg Graphic file (type jpg)
+<use aircraft.jpg>
+Package pdftex.def Info: aircraft.jpg  used on input line 66.
+(pdftex.def)             Requested size: 200.74643pt x 160.59715pt.
+[2] [3 <./Markoni.jpg> <./aircraft.jpg>] [4]
+<toranj.jpg, id=104, 1027.84pt x 656.4525pt>
+File: toranj.jpg Graphic file (type jpg)
+<use toranj.jpg>
+Package pdftex.def Info: toranj.jpg  used on input line 103.
+(pdftex.def)             Requested size: 256.95937pt x 164.11272pt.
+ [5 <./toranj.jpg>]
+Overfull \hbox (12.86072pt too wide) in paragraph at lines 130--131
 []\T2A/cmr/m/n/10 Februara 1901. u Collier-ovom ^^Gclanku pod na-zi-vom ^^PRaz-
 go-vor sa planetama"[[]]
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
-[]\T2A/cmr/m/n/10 induktivno
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]\T2A/cmr/m/n/10 Mikrotalasni
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
-[]\T2A/cmr/m/n/10 rezonantno
+Underfull \hbox (badness 10000) in paragraph at lines 147--147
+[]\T2A/cmr/m/n/10 Laserski pre-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
-\T2A/cmr/m/n/10 in-duk-tiv-no
+Underfull \hbox (badness 1924) in paragraph at lines 148--148
+[]\T2A/cmr/m/n/10 Primljena sna-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 141--141
-[]\T2A/cmr/m/n/10 mikrovalni
+Underfull \hbox (badness 10000) in paragraph at lines 148--148
+[]\T2A/cmr/m/n/10 o^^Gcekivano do
  []
 
 
-Underfull \hbox (badness 1655) in paragraph at lines 141--141
-[]\T2A/cmr/m/n/10 laserski pre-
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
+[]\T2A/cmr/m/n/10 nekoliko kHz
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 142--142
-[]\T2A/cmr/m/n/10 primljena
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 142--142
-[]\T2A/cmr/m/n/10 do de-se-ti-ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--143
-[]\T2A/cmr/m/n/10 do de-se-ti-ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 143--143
-[]\T2A/cmr/m/n/10 do de-se-ti-ne
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
-[]\T2A/cmr/m/n/10 frekvencija
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
+Underfull \hbox (badness 10000) in paragraph at lines 150--150
 \T2A/cmr/m/n/10 do de-se-ti-ne
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
-[]\T2A/cmr/m/n/10 nekoliko
+Overfull \hbox (45.05212pt too wide) in paragraph at lines 145--155
+ [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 144--144
-[]\T2A/cmr/m/n/10 vi^^Gse od 1
- []
+LaTeX Warning: `h' float specifier changed to `ht'.
 
 [6] [7] (./40_VujovicGligoricPericPetrovic.bbl
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
@@ -632,7 +605,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 4--7
 annica . com / science /
  []
 
-
+[8]
 Underfull \hbox (badness 10000) in paragraph at lines 47--51
 []\T2A/cmr/m/n/10 Doug Sto-vall.  How re-al wi-re-less po-wer will ena-ble
  []
@@ -661,19 +634,19 @@ Underfull \hbox (badness 1622) in paragraph at lines 63--69
 wikipedia . org / w / index . php ? title =
  []
 
-[8]) [9] (./40_VujovicGligoricPericPetrovic.aux)
+) [9] (./40_VujovicGligoricPericPetrovic.aux)
 Package rerunfilecheck Info: File `40_VujovicGligoricPericPetrovic.out' has not
  changed.
-(rerunfilecheck)             Checksum: 33081F0690F55A89B436229BAAFA7D92;1447.
+(rerunfilecheck)             Checksum: D68F9D36A50612FE7E9508ACB8CAD9F7;1511.
  ) 
 Here is how much of TeX's memory you used:
- 9743 strings out of 478878
- 140618 string characters out of 5859658
- 464275 words of memory out of 6000000
- 27200 multiletter control sequences out of 15000+600000
+ 9746 strings out of 478862
+ 140650 string characters out of 5858944
+ 464465 words of memory out of 6000000
+ 27208 multiletter control sequences out of 15000+600000
  414971 words of font info for 48 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 60i,11n,63p,994b,457s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 60i,11n,63p,994b,455s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}{/us
 r/share/texlive/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texli
@@ -686,10 +659,10 @@ blic/cm-super/sfrm0900.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm
 sfrm1200.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfrm172
 8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb><
 /usr/share/texlive/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on 40_VujovicGligoricPericPetrovic.pdf (9 pages, 619674 bytes).
+Output written on 40_VujovicGligoricPericPetrovic.pdf (9 pages, 621473 bytes).
 PDF statistics:
- 200 PDF objects out of 1000 (max. 8388607)
- 173 compressed objects within 2 object streams
- 38 named destinations out of 1000 (max. 500000)
- 96 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 207 PDF objects out of 1000 (max. 8388607)
+ 180 compressed objects within 2 object streams
+ 39 named destinations out of 1000 (max. 500000)
+ 104 words of extra memory for PDF output out of 10000 (max. 10000000)
 
