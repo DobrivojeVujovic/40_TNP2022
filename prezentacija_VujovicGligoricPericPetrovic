@@ -1,0 +1,120 @@
+\documentclass[11pt]{beamer}
+\usetheme{Madrid}
+\usepackage[utf8]{inputenc}
+\usepackage[english,serbian]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\useinnertheme{circles}
+
+\definecolor{UBCblue}{rgb}{0.03, 0.27, 0.49} % UBC Blue (primary)
+
+\usecolortheme[named=UBCblue]{structure}
+
+\def\d{{\fontencoding{T1}\selectfont\dj}}
+\def\D{{\fontencoding{T1}\selectfont\DJ}}
+
+
+\title{Bežični prenos električne energije}
+\author{Dobrivoje Vujović, Mila Gligorić, Boris Perić, Milan Petrović}
+\institute{Matematički fakultet Univerziteta u Beogradu}
+\date{
+	\footnotesize{25. decembar 2022.}	
+}
+
+\begin{document}
+\begin{frame}
+	\thispagestyle{empty}
+	\titlepage
+\end{frame}
+
+\addtocounter{framenumber}{-1}
+
+\begin{frame}{Literatura}
+	\begin{itemize}
+		
+ 	\item \textcolor{black}{{\footnotesize}}{\footnotesize \url{https://www.britannica.com/science/standing-wave-physics}}
+	\item \textcolor{black}{{\footnotesize W. Bernard Carlson. Tesla: Inventor of the electrical age. Princeton University Press, 2013}}
+	\item \textcolor{black}{{\footnotesize Emmanuel Chukwujioke: Wireless power transfer : The future. International Journal of Scientiﬁc and Engineering Research, 2015.}}
+	\item \textcolor{black}{{\footnotesize A. David Wunsch:  Nikola tesla’s true wireless: A paradigm missed [scanning our past]. Proceedings of the IEEE, 106:1115–1123, 2018.}}
+	\item \textcolor{black}{{\footnotesize John B. Kennedy. Collier magazine, 1926.}}
+	\item \textcolor{black}{{\footnotesize}} {\footnotesize \url{https://siyss20.ungaforskare.se/Mengyang.li_report.pdf}}		
+	\item \textcolor{black}{{\footnotesize Castellanos University of York Moore, Julian. Applications of wireless power transfer in medicine: State-of-the-art reviews. Journal of biomedical optics, 2019.}}
+	\item \textcolor{black}{{\footnotesize}} {\footnotesize \url{https://blog.ossia.com/how-real-wireless-power-will-enable-a-more-sustainable-future}}		
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+	\frametitle{Sadržaj} % Table of contents slide, comment this block out to remove it
+	\tableofcontents[hidesubsections] 
+\end{frame}
+
+\section{Uvod}
+
+\begin{frame}\frametitle{Uvod}
+	\begin{itemize}	
+		\item ...
+		\item ...
+		\item ...
+		\item ...
+	\end{itemize}
+\end{frame}
+
+\section{Istorija i pioniri}
+
+\begin{frame}\frametitle{Istorija i pioniri}
+	\begin{itemize}	
+		\item ...
+		\item ...
+		\item ...
+	\end{itemize}
+\end{frame}
+
+\section{Princip rada}
+
+\begin{frame}\frametitle{Princip rada}
+	\begin{itemize}	
+		\item ...
+		\item ...
+		\item ...
+	\end{itemize}
+\end{frame}
+
+\section{Načini prenosa}
+
+\begin{frame}\frametitle{Načini prenosa}
+	\begin{itemize}	
+		\item ...
+		\item ...
+		\item ...
+	\end{itemize}
+\end{frame}
+
+\section{Primene}
+
+\begin{frame}\frametitle{Primene}
+	\begin{itemize}	
+		\item ...
+		\begin{itemize}
+	    \item ...
+		\end{itemize}
+		\item ...
+	\end{itemize}
+\end{frame}
+
+\section{Zaključak}
+
+\begin{frame}\frametitle{Zaključak}
+	\begin{itemize}	
+		\item 
+		\begin{itemize}
+			\item 
+			\item 
+			\item 
+		\end{itemize}
+		\item 
+	\end{itemize}
+\end{frame}
+
+\end{document}
