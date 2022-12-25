@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.17)  25 DEC 2022 21:21
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.11.9)  26 DEC 2022 00:58
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -765,7 +765,7 @@ Package: babel 2021/04/26 3.58 The Babel package
 File: babel.def 2021/04/26 3.58 Babel common definitions
 \babel@savecnt=\count322
 \U@D=\dimen284
-\l@unhyphenated=\language85
+\l@unhyphenated=\language82
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
@@ -778,9 +778,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language26). Reported on input line 105.
+(babel)             (\language24). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language26). Reported on input line 108.
+(babel)             (\language24). Reported on input line 108.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel-serbian/serbian.ldf
 Language: serbian 2021/04/10 2.1 Serbian Latin support for the Babel system
@@ -969,4 +969,124 @@ Dictionary: translator-numbers-dictionary, Language: English
 )
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
-Dictionary: transla
+Dictionary: translator-theorem-dictionary, Language: English 
+) (./prezentacija_VujovicGligoricPericPetrovic.nav)
+Overfull \hbox (120.54701pt too wide) in paragraph at lines 26--26
+ [][]  \OT1/cmss/m/n/5 ([])  
+ []
+
+[1
+
+{/usr/share/texlive/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Trying to load font information for U+msa on input line 46.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 46.
+
+
+(/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
+ut line 46.
+
+(/usr/share/texlive/texmf-dist/tex/latex/sansmathaccent/ot1mathkerncmss.fd
+File: ot1mathkerncmss.fd 2020/01/31 Fontinst v1.933 font definitions for OT1/ma
+thkerncmss.
+)
+Overfull \hbox (120.54701pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/5 ([])  
+ []
+
+[2
+
+] (./prezentacija_VujovicGligoricPericPetrovic.toc)
+Overfull \hbox (120.54701pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/5 ([])  
+ []
+
+[3
+
+]
+Overfull \hbox (120.54701pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/5 ([])  
+ []
+
+[4
+
+]
+Overfull \hbox (120.54701pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/5 ([])  
+ []
+
+[5
+
+]
+Overfull \hbox (120.54701pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/5 ([])  
+ []
+
+[6
+
+]
+Overfull \hbox (120.54701pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/5 ([])  
+ []
+
+[7
+
+]
+Overfull \hbox (120.54701pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/5 ([])  
+ []
+
+[8
+
+]
+Overfull \hbox (120.54701pt too wide) has occurred while \output is active
+ [][]  \OT1/cmss/m/n/5 ([])  
+ []
+
+[9
+
+]
+\tf@nav=\write6
+\openout6 = `prezentacija_VujovicGligoricPericPetrovic.nav'.
+
+\tf@toc=\write7
+\openout7 = `prezentacija_VujovicGligoricPericPetrovic.toc'.
+
+\tf@snm=\write8
+\openout8 = `prezentacija_VujovicGligoricPericPetrovic.snm'.
+
+ (./prezentacija_VujovicGligoricPericPetrovic.aux)
+Package rerunfilecheck Info: File `prezentacija_VujovicGligoricPericPetrovic.ou
+t' has not changed.
+(rerunfilecheck)             Checksum: 2DB7083682551CDA1FF87A0656DF5433;655.
+ ) 
+Here is how much of TeX's memory you used:
+ 21739 strings out of 478878
+ 402983 string characters out of 5859658
+ 712368 words of memory out of 6000000
+ 38855 multiletter control sequences out of 15000+600000
+ 413842 words of font info for 65 fonts, out of 8000000 for 9000
+ 1137 hyphenation exceptions out of 8191
+ 128i,16n,126p,462b,648s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
+/fonts/type1/public/amsfonts/cm/cmsy9.pfb></usr/share/texlive/texmf-dist/fonts/
+type1/public/amsfonts/cm/cmtt8.pfb>
+Output written on prezentacija_VujovicGligoricPericPetrovic.pdf (9 pages, 91290
+ bytes).
+PDF statistics:
+ 337 PDF objects out of 1000 (max. 8388607)
+ 302 compressed objects within 4 object streams
+ 25 named destinations out of 1000 (max. 500000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
+

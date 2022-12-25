@@ -1,7 +1,7 @@
 \babel@toc {serbian}{}
 \beamer@sectionintoc {1}{Uvod}{4}{0}{1}
 \beamer@sectionintoc {2}{Istorija i pioniri}{5}{0}{2}
-\beamer@sectionintoc {3}{Princip rada}{6}{0}{3}
+\beamer@sectionintoc {3}{Svetski bežični sistem}{6}{0}{3}
 \beamer@sectionintoc {4}{Načini prenosa}{7}{0}{4}
 \beamer@sectionintoc {5}{Primene}{8}{0}{5}
 \beamer@sectionintoc {6}{Zaključak}{9}{0}{6}
