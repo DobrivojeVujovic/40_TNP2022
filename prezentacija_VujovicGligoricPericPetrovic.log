@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.11.9)  25 DEC 2022 20:30
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (TeX Live 2021) (preloaded format=pdflatex 2022.10.17)  25 DEC 2022 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -765,7 +765,7 @@ Package: babel 2021/04/26 3.58 The Babel package
 File: babel.def 2021/04/26 3.58 Babel common definitions
 \babel@savecnt=\count322
 \U@D=\dimen284
-\l@unhyphenated=\language82
+\l@unhyphenated=\language85
 
 (/usr/share/texlive/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read3
@@ -778,9 +778,9 @@ Language: english 2017/06/06 v3.3r English support from the babel system
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
 Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language24). Reported on input line 105.
+(babel)             (\language26). Reported on input line 105.
 Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language24). Reported on input line 108.
+(babel)             (\language26). Reported on input line 108.
 )
 (/usr/share/texlive/texmf-dist/tex/generic/babel-serbian/serbian.ldf
 Language: serbian 2021/04/10 2.1 Serbian Latin support for the Babel system
@@ -794,7 +794,7 @@ File: l3backend-pdftex.def 2021-05-07 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count325
 \l__pdf_internal_box=\box72
 )
-No file prezentacija_VujovicGligoricPericPetrovic.aux.
+(./prezentacija_VujovicGligoricPericPetrovic.aux)
 \openout1 = `prezentacija_VujovicGligoricPericPetrovic.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
@@ -815,6 +815,7 @@ LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
 LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -887,6 +888,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 LaTeX Info: Redefining \ref on input line 26.
 LaTeX Info: Redefining \pageref on input line 26.
 LaTeX Info: Redefining \nameref on input line 26.
+
+(./prezentacija_VujovicGligoricPericPetrovic.out)
+(./prezentacija_VujovicGligoricPericPetrovic.out)
 \@outlinefile=\write5
 \openout5 = `prezentacija_VujovicGligoricPericPetrovic.out'.
 
@@ -966,9 +970,7 @@ Dictionary: translator-numbers-dictionary, Language: English
 (/usr/share/texlive/texmf-dist/tex/latex/translator/translator-theorem-dictiona
 ry-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
-)
-No file prezentacija_VujovicGligoricPericPetrovic.nav.
-
+) (./prezentacija_VujovicGligoricPericPetrovic.nav)
 Overfull \hbox (168.93604pt too wide) in paragraph at lines 26--26
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1001,9 +1003,7 @@ Overfull \hbox (168.93604pt too wide) has occurred while \output is active
 
 [2
 
-]
-No file prezentacija_VujovicGligoricPericPetrovic.toc.
-
+] (./prezentacija_VujovicGligoricPericPetrovic.toc)
 Overfull \hbox (168.93604pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1032,6 +1032,11 @@ Overfull \hbox (168.93604pt too wide) has occurred while \output is active
 [6
 
 ]
+Overfull \hbox (86.1575pt too wide) in paragraph at lines 99--99
+ [] 
+ []
+
+
 Overfull \hbox (168.93604pt too wide) has occurred while \output is active
  [][]  \OT1/cmss/m/n/6 ([])  
  []
@@ -1063,36 +1068,29 @@ Overfull \hbox (168.93604pt too wide) has occurred while \output is active
 \openout8 = `prezentacija_VujovicGligoricPericPetrovic.snm'.
 
  (./prezentacija_VujovicGligoricPericPetrovic.aux)
-
-Package rerunfilecheck Warning: File `prezentacija_VujovicGligoricPericPetrovic
-.out' has changed.
-(rerunfilecheck)                Rerun to get outlines right
-(rerunfilecheck)                or use package `bookmark'.
-
-Package rerunfilecheck Info: Checksums for `prezentacija_VujovicGligoricPericPe
-trovic.out':
-(rerunfilecheck)             Before: <no file>
-(rerunfilecheck)             After:  9AA3160481FF5748FBA0BD01C7A7F48A;596.
+Package rerunfilecheck Info: File `prezentacija_VujovicGligoricPericPetrovic.ou
+t' has not changed.
+(rerunfilecheck)             Checksum: 9AA3160481FF5748FBA0BD01C7A7F48A;596.
  ) 
 Here is how much of TeX's memory you used:
- 21663 strings out of 478878
- 401482 string characters out of 5859658
- 711871 words of memory out of 6000000
- 38789 multiletter control sequences out of 15000+600000
+ 21747 strings out of 478862
+ 403123 string characters out of 5858944
+ 714499 words of memory out of 6000000
+ 38869 multiletter control sequences out of 15000+600000
  416094 words of font info for 73 fonts, out of 8000000 for 9000
  1137 hyphenation exceptions out of 8191
- 128i,16n,126p,462b,564s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 128i,16n,126p,462b,648s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb></us
 r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss12.pfb></usr/shar
 e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb></usr/share/texli
 ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmss9.pfb></usr/share/texlive/texm
 f-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texlive/texmf-dist
 /fonts/type1/public/amsfonts/cm/cmtt9.pfb>
-Output written on prezentacija_VujovicGligoricPericPetrovic.pdf (9 pages, 87136
+Output written on prezentacija_VujovicGligoricPericPetrovic.pdf (9 pages, 90324
  bytes).
 PDF statistics:
- 307 PDF objects out of 1000 (max. 8388607)
- 274 compressed objects within 3 object streams
+ 332 PDF objects out of 1000 (max. 8388607)
+ 299 compressed objects within 3 object streams
  25 named destinations out of 1000 (max. 500000)
- 79 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 127 words of extra memory for PDF output out of 10000 (max. 10000000)
 
