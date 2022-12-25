@@ -5,6 +5,7 @@
 \usepackage[T2A]{fontenc} 
 \usepackage[utf8]{inputenc} 
 \usepackage{graphicx}
+\usepackage[table,xcdraw]{xcolor}
 
 \usepackage[english,serbian]{babel}
 
@@ -24,7 +25,7 @@
 	\date{15. Novembar. 2022.}
 	\maketitle
 \begin{abstract}
-    U ovom tekstu bavicemo se sistemima za bežični prenos električne energije. Ovakvi sistemi nesumljivo imaju široku primenu, a buduci da se provlače i kroz svakodnevni život, primena ovih tehnologija postaje sve širi pojam. U ovom tekstu biće izložena kratka istorija bežičnog prenosa elekrične energije i neki od pionira ovog polja. Naredna poglavlja osvrtaće se više na same principe funkcionisanja kao i na primenu ovih tehnologija. Biće takodje i reči o jednom od svakako najzanimljivijih pokusaja primene bežične tehnologije. Na samom kraju biće pomenute tehničke karakteristike nekih bežičnih tehnologija kao i njihove prednosti i mane. Cilj teksta jeste da čitaocu pruži uvid u osnovne pojmove vezane za bežični prenos energije i na taj način mu približi skup njegovih mogućnosti.
+    U ovom tekstu bavićemo se sistemima za bežični prenos električne energije. Ovakvi sistemi nesumljivo imaju široku primenu, a budući da se provlače i kroz svakodnevni život, primena ovih tehnologija postaje sve širi pojam. U ovom tekstu biće izložena kratka istorija bežičnog prenosa elekrične energije i neki od pionira ovog polja. Naredna poglavlja osvrtaće se više na same principe funkcionisanja kao i na primenu ovih tehnologija. Biće takođe i reči o jednom od svakako najzanimljivijih pokušaja primene bežične tehnologije. Na samom kraju biće pomenute tehničke karakteristike nekih bežičnih tehnologija kao i njihove prednosti i mane. Cilj teksta jeste da čitaocu pruži uvid u osnovne pojmove vezane za bežični prenos energije i na taj način mu približi skup njegovih mogućnosti.
 \end{abstract}
 \tableofcontents
 \newpage
@@ -37,7 +38,7 @@ Mnogi problemi se mogu rešiti najsavremenijom tehnologijom. Gore navedeni probl
 
 \section{Istorija i pioniri}
 
-U 19. veku su se razvile mnoge teorije i kontrateorije o tome kako se električna energija može prenositi. Godine 1826., Andre-Mari Amper je otkrio vezu izmedju struje i magneta. Majkl Faradej je 1831. opisao svojim zakonom indukcije elektromotornu silu koja pokreće struju u petlji provodnika uz pomoć vremenski promenljivog magnetnog fluksa. Prenos električne energije bez žica su posmatrali mnogi pronalazači i eksperimentatori, ali nedostatak odgovarajuće teorije je nejasno pripisao ove pojave elektromagnetnoj indukciji \cite{enwiki:1118144890}.
+U 19. veku su se razvile mnoge teorije i kontrateorije o tome kako se električna energija može prenositi. Godine 1826., Andre-Mari Amper je otkrio vezu između struje i magneta. Majkl Faradej je 1831. opisao svojim zakonom indukcije elektromotornu silu koja pokreće struju u petlji provodnika uz pomoć vremenski promenljivog magnetnog fluksa. Prenos električne energije bez žica su posmatrali mnogi pronalazači i eksperimentatori, ali nedostatak odgovarajuće teorije je nejasno pripisao ove pojave elektromagnetnoj indukciji \cite{enwiki:1118144890}.
 
 Koncizno objašnjenje ovih fenomena dolazilo bi iz Maksvelovih jednačina iz 1860-ih Džejmsa Klerka Maksvela, uspostavljajući teoriju koja je ujedinila elektricitet i magnetizam sa elektromagnetizmom, predviđajući postojanje elektromagnetnih talasa kao "bežičnog" nosioca elektromagnetne energije.
 Nakon toga je usledila validacija teorije od strane Hajnriha Rudolfa Herca iz 1888. godine, koja je uključivala dokaze za radio talase.
@@ -134,28 +135,21 @@ Iako je Tesla demonstrirao bežični prenos energije osvetljavajući sijalice po
 
 \section{Načini prenosa energije}
 
-Za prenos električne energije koriste se tehnologije za prenos na blizinu i na velike razdaljine odnosno near-field (neradijativna) i far-field (radijativna)\ref{fig:tabela}.
+Za prenos električne energije koriste se tehnologije za prenos na blizinu i na velike razdaljine odnosno near-field (neradijativna) i far-field (radijativna)\ref{fig:tabela1}.
 
-
-
-\begin{table}[h]
+\begin{table}[]
+    \caption{Poređenje metoda za bežični prenos energije}
     \centering
-    \caption{Poređenje tehnologija bežičnog prenosa energije}
-    
-    \begin{tabular}{|p{2,4 cm}|p{2,3 cm}|p{2,3 cm}|p{2,3 cm}|p{2,3 cm}|}
-        \hline
-    & Induktivno  povezivanje & Rezonantno induktivno povezivanje & Mikrotalasni prenos & Laserski prenos \\ \hline
-    Primljena snaga  & nekoliko W & stotine W & do desetine kW & očekivano do MW\\ \hline
-    Moguća udaljenost & nekoliko cm & nekoliko m & do desetine km & do desetine km \\ \hline
-    Frekvencija rada & nekoliko kHz do desetine kHz & nekoliko MHz & do 300 GHz & više od 1 THz \\ \hline
-    Efikasnost & Vrlo visoka & Visoka & Srednja & Srednja \\ \hline
-        
-    \label{fig:tabela}
+    \begin{tabular}{|c|c|c|c|c|}
+    \hline
+     & \cellcolor[HTML]{C0C0C0}\textbf{\begin{tabular}[c]{@{}c@{}}Induktivno\\ povezivanje\end{tabular}} & \cellcolor[HTML]{C0C0C0}\textbf{\begin{tabular}[c]{@{}c@{}}Rezonantno\\ induktivno\\ povezivanje\end{tabular}} & \cellcolor[HTML]{C0C0C0}{\color[HTML]{000000} \textbf{\begin{tabular}[c]{@{}c@{}}Mikrotalasni\\ prenos\end{tabular}}} & \cellcolor[HTML]{C0C0C0}\textbf{\begin{tabular}[c]{@{}c@{}}Laserski\\ prenos\end{tabular}} \\ \hline
+    \cellcolor[HTML]{C0C0C0}\begin{tabular}[c]{@{}c@{}}Prijemna \\ snaga\end{tabular} & nekoliko w & \begin{tabular}[c]{@{}c@{}}nekoliko\\ stotina W\end{tabular} & desetine kW & do MW \\ \hline
+    \cellcolor[HTML]{C0C0C0}\begin{tabular}[c]{@{}c@{}}Moguća\\ udaljenost\end{tabular} & nekoliko cm & par m & \begin{tabular}[c]{@{}c@{}}do desetine\\ km\end{tabular} & \begin{tabular}[c]{@{}c@{}}do desetine\\ km\end{tabular} \\ \hline
+    \cellcolor[HTML]{C0C0C0}\begin{tabular}[c]{@{}c@{}}Frekvencija\\ talasa\end{tabular} & nekoliko kHz & desetine kHz & nekoliko MHz & \begin{tabular}[c]{@{}c@{}}od 300GHz\\ do 1 THz\end{tabular} \\ \hline
+    \cellcolor[HTML]{C0C0C0}Efikasnost & Vrlo visoka & visoka & srednja & srednja \\ \hline
     \end{tabular}
+    \label{fig:tabela1}
     \end{table}
-    
-    
-
 
 \subsection{Prenos energije na male udaljenosti}
 \label{subsec:prenosenergijenamaleudaljenosti}
@@ -178,7 +172,7 @@ Far-field tehnologije služe za prenos na mnogo veće udaljenosti i za takav pre
 
 Mikrotalasi koriste par hiljada puta više energije od indukcije odnosno do par desetina kW, njihov domet zajedno sa laserima prelazi desetine kilometara i opseg frekvencija ovih talasa se kreće od 300MHz do 300GHz. Sistem se sastoji od generatora talasa koji naizmeničnu struju pretvara u jednosmernu a nakon toga jednosmernu struju u elektromagnetne talase. Pomoću antene za prijem, koja se drugačije nazivaju i rectenna, elektromagnetni talasi se pretvaraju u jednosmernu struju. Ideja iza ovog principa je ta da se u orbitu lansiraju svemirske stanice koje bi pomoću solarnih panela proizvodile struju i emitovale je nazad na Zemlju.
 
-Problem kod ovog načina slanja energije je sto je aparatura neophodna za njen rad ogromna i antena za slanje zauzima 1km u prečniku dok antena za prijem zauzima preko 10km prečnika. Sa druge strane plantaža solarnih panela ovih dimenzija može da proizvede 10 hiljada MW elektricne energije u poređenju sa 750 MW koje bi antena mogla da primi.
+Problem kod ovog načina slanja energije je sto je aparatura neophodna za njen rad ogromna i antena za slanje zauzima 1km u prečniku dok antena za prijem zauzima preko 10km prečnika. Sa druge strane plantaža solarnih panela ovih dimenzija može da proizvede 10 hiljada MW električne energije u poređenju sa 750 MW koje bi antena mogla da primi.
 
 Takođe jedna od mana ovog pristupa je lomljenje talas u susretu sa preprekama što rezultuje gubitku efikasnosti.
 
